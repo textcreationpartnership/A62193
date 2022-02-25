@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Satyr against ingratitude with some reflections on the wits of the age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62193</idno>
+            <idno type="STC">Wing S709A</idno>
+            <idno type="STC">ESTC R25543</idno>
+            <idno type="EEBO-CITATION">09011919</idno>
+            <idno type="OCLC">ocm 09011919</idno>
+            <idno type="VID">42216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Satyr against ingratitude with some reflections on the wits of the age.</title>
+               </titleStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42216:1"/>
+            <pb facs="tcp:42216:1" rendition="simple:additions"/>
+            <p>A SATYR AGAINST INGRATITUDE, With Some REFLECTIONS ON THE Wits of the Age.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. C.</hi> MDCXCIX.</p>
+         </div>
+         <div type="bookseller_to_the_reader">
+            <pb facs="tcp:42216:2"/>
+            <pb facs="tcp:42216:2"/>
+            <head>THE BOOKSELLER TO THE READER.</head>
+            <p>AS this is a very <hi>Odd Poem,</hi> ſo it came as Odly to my Hands; being Sent me in a <hi>Letter</hi> by the <hi>General-Poſt;</hi> and, I Gueſs by what I Pay'd for it, that it came at leaſt a Hundred Miles off, but whether <hi>Eaſt, Weſt, North</hi> or <hi>South,</hi> I am ut<g ref="char:EOLhyphen"/>terly Ignorant. The <hi>Letter</hi> it came in, told me, <hi>I might either Condemn it to the Preſs, or to the Flames, which I pleas'd;</hi> but told me withall, by way of Encouragement, <hi>That if I Printed, and got any thing by it, I ſhould not fail of one or two more very ſpeedily;</hi> and looking it carefully over in Company, with an Intelligent Friend, and diſcerning nothing in it of Reflexion upon the <hi>Government,</hi> or any <hi>Particular Perſon,</hi> we Reſolv'd to Publiſh it. As to that <hi>Part</hi> of the <hi>Satyr</hi> on the <hi>Bankrupt,</hi> the Modesty of the <hi>Author</hi> is very Remarkable, for his not having ſet down ſo much as a <hi>Letter</hi> of his Name, nor giving any other <hi>Diſ<g ref="char:EOLhyphen"/>criminating Sign,</hi> to Expoſe him to the Cenſures of the Publick, Manifestly Demonſtrates, that 'tis Deſign'd only as a <hi>Private, Wholſome Admonition to the Perſon Himſelf:</hi> for there being not only more than One, but more than a Thouſand, of the ſame ſort of Cattle about the <hi>Town.</hi> 'tis not poſſible, with Reaſon, to be Conſter'd
+<pb facs="tcp:42216:3"/>otherwiſe. But what he Means by Repeating the Word <hi>Heaven</hi> ſo often, is beſt known to Himſelf; tho' it ſhould have been other<g ref="char:EOLhyphen"/>wiſe, if I might have Advis'd; for 'twill certainly be a Great <hi>Eye-ſore</hi> to it; which, with ſome other <hi>Purging</hi> (not to ſay <hi>Nauſi<g ref="char:EOLhyphen"/>ating</hi>) <hi>Qualities</hi> therein, will never agree with the Delicate Nice<g ref="char:EOLhyphen"/>neſs of the Stomach of this <hi>Age;</hi> and, conſequently, muſt be fatal to it; which I ſuppoſe the <hi>Author</hi> not to be Inſenſible of, by his Indu<g ref="char:EOLhyphen"/>ſtrious Concealment.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:42216:3"/>
+            <head>A SATYR AGAINST INGRATITUDE, With ſome Reflections on the Wits of this Age.</head>
+            <lg>
+               <l>AWAKE my drowſy, yet my Darling Muſe,</l>
+               <l>And don't the Task, I point thee out, refuſe.</l>
+               <l>Thou haſt been Dormant long, and Stupify'd;</l>
+               <l>And, to touch Pen, for many years, deny'd:</l>
+               <l>I know the Reaſon <hi>Poets</hi> now a-days,</l>
+               <l>Write all for Profit, or what's worſe, for Praiſe;</l>
+               <l>Virtue is not the Prize, but Lucre, or the Bays.</l>
+            </lg>
+            <pb n="2" facs="tcp:42216:4"/>
+            <lg>
+               <l>Whilſt there's the Cauſe, thy Sloath I cannot blame;</l>
+               <l>For what Wiſe Man wou'd value Cummon Fame,</l>
+               <l>Or then an empty-Cask, an empty Name?</l>
+               <l>And then for Gain, What Generous Man wou'd Write?</l>
+               <l>What noble Muſe, thus clog'd, can take a flight,</l>
+               <l>Worthy her Heavenly Birth? for all agree,</l>
+               <l>That's the Aborigine of <hi>Poetry.</hi>
+               </l>
+               <l>If ſo, What Wretches are our Modern Wits?</l>
+               <l>For, as a Man that's lyable to Fits,</l>
+               <l>Exerts his utmoſt ſtrength, and tears and rends,</l>
+               <l>And grins, and ſpits, and gnaſhes on his Friends;</l>
+               <l>Who, for their kindly coming to his ay'd,</l>
+               <l>He has thus moſt ungratefully repay'd.</l>
+            </lg>
+            <lg>
+               <l>But much more like that <hi>Luciferian Band,</hi>
+               </l>
+               <l>On whom th'Almighty, with a bounteous hand,</l>
+               <l>Conferr'd ſuch Power and Wit, and Excellence;</l>
+               <l>That nothing cou'd ſurmount, but that from whence</l>
+               <l>That Inexhauſted ſource from whence it came,</l>
+               <l>And muſt be ſempeternally the ſame;</l>
+               <pb n="3" facs="tcp:42216:4"/>
+               <l>Mauger the Malice of this Curſed Crew,</l>
+               <l>Who, tho' for ever Damn'd, han't half their Due;</l>
+               <l>For turning of theſe Faculties Divine,</l>
+               <l>Not as they ought to ſerve, but undermine,</l>
+               <l>And to Cataſtrophiſe God's Wonderful Deſign;</l>
+               <l>But all in vain; for, the Omnicient Eye,</l>
+               <l>(Within whoſe Ken all ſecrets openly)</l>
+               <l>Did preſently the Treachery deſcry:</l>
+               <l>For, not to Creatures, but to Heav'n alone,</l>
+               <l>All hearts are open, all deſires known:</l>
+               <l>And ſure theſe Heav'n-born Traytors were no more,</l>
+               <l>Tho' richly fraught with Bleſſings as before,</l>
+               <l>So wondrous rich that Heav'n cou'd give no more,</l>
+               <l>As they ſuppos'd; but Heav'n knew better things,</l>
+               <l>And how to clip, as well as make their Wings.</l>
+            </lg>
+            <lg>
+               <l>Thus did young <hi>Iccarus</hi> preſume to fly,</l>
+               <l>And with his Waxen Wings to mount on high;</l>
+               <l>Till <hi>Phoebus</hi> Riſing, ſent his flagrant Beams</l>
+               <l>From Heav'n to Earth, in piercing Lucid Streams:</l>
+               <pb n="4" facs="tcp:42216:5"/>
+               <l>Whereby that Wondrous Glorious Second Cauſe</l>
+               <l>Obeys his Maker, and fulfils his Laws:</l>
+               <l>Giving the Charming Products of the Earth</l>
+               <l>Full Beauty, Growth and Strength, as well as Birth.</l>
+            </lg>
+            <lg>
+               <l>Thou Great Diſpencer of Kind Heav'ns vaſt ſtore,</l>
+               <l>That equal deal'ſt thy Gifts to Rich and Poor,</l>
+               <l>And but for which us Mortals were no more:</l>
+               <l>For what but thee cou'd wretched Man ſuſtain?</l>
+               <l>Thou giv'ſt us Salutary Dews and Rain,</l>
+               <l>Which, with ſtrong hand, thou Wafts us from the Main:</l>
+               <l>Whereby thou doſt Refrigerate our Earth,</l>
+               <l>Poſtponing the Tremendous coming Dearth.</l>
+            </lg>
+            <lg>
+               <l>And if we thus admire an Effect,</l>
+               <l>(As all Men muſt, that Common Senſe direct)</l>
+               <l>What more, than Fools, are thoſe, that ſhall the Cauſe neglect?</l>
+               <l>But to return! as the Ambitious Boy,</l>
+               <l>Which with curs'd Pride does all our worth deſtroy,</l>
+               <l>(For elſe there's many that were juſtly priz'd,</l>
+               <l>Who, for that Fault, as juſtly are deſpis'd;)</l>
+               <pb n="5" facs="tcp:42216:5"/>
+               <l>I ſay, as this our forward Youth wou'd try,</l>
+               <l>Too far from Earth, and too near Heav'n to fly,</l>
+               <l>And as <hi>Sol</hi>'s Beams came forth, and daſh'd him from the Sky;</l>
+               <l>Ev'n ſo the Glorious Angel <hi>Michael</hi> came,</l>
+               <l>And quench'd their Livid with his Heavenly flame;</l>
+               <l>So quench'd, as never there again to riſe,</l>
+               <l>But cloſe pent up, in Hell it mouldring lyes.</l>
+            </lg>
+            <lg>
+               <l>And thus ſhall all Ingratitude be ſerv'd,</l>
+               <l>Hells bitter Fare for ſuch is ſtill reſerv'd;</l>
+               <l>And Plenteous Meals on't will to them be Carv'd.</l>
+               <l>Now as theſe Traytors impudently flew,</l>
+               <l>(As did their like and Succeſſor the <hi>Jew</hi>)</l>
+               <l>The VVorks of their Creator to undo:</l>
+               <l>So there are Men alive who wee'l not Name,</l>
+               <l>(To their Confuſion and Eternal ſhame)</l>
+               <l>Have, to their Priſtine Benefactors, done the ſame.</l>
+               <l>To give one Inſtance (and to give no more,</l>
+               <l>Tho' we have others in Reſerve for Store)</l>
+               <pb n="6" facs="tcp:42216:6"/>
+               <l>Of an unhappy <hi>Bankrupt</hi> of the Town,</l>
+               <l>On whom Blind-Fortune once much VVealth had thrown,</l>
+               <l>Tho' now not worth a Groat, had every Man his Own.</l>
+            </lg>
+            <lg>
+               <l>This Poor Man has a Loving Siſter ſlain,</l>
+               <l>And Faithful Nephew Ruin'd for his Gain,</l>
+               <l>For which, 'tis fear'd he muſt, with thoſe above, remain.</l>
+               <l>This, as her Darling, does the Pious Mother</l>
+               <l>Send to her moſt oblig'd, and VVealthy Brother;</l>
+               <l>VVho, forthwith, made the hopeful Youth a Slave;</l>
+               <l>Tho' of good Gold, a VVeighty Sum ſhe gave:</l>
+               <l>Yet this Ungrateful Brother had ſhe kept;</l>
+               <l>And, as her Son, had in her Boſome Slept;</l>
+               <l>Till She, too late, diſcover'd the Miſtake,</l>
+               <l>When, in his Room, She found a Treacherous Snake;</l>
+               <l>That firſt drew from her all the VVealth he cou'd,</l>
+               <l>And, after, Suckt Her Precious Vital Blood;</l>
+               <l>VVhich, by a Metaphor's as plain and clear,</l>
+               <l>As <hi>O</hi>-ere Murder'd more than one a Year;</l>
+               <pb n="7" facs="tcp:42216:6"/>
+               <l>For, from the cauſeleſs Ruine of her Son,</l>
+               <l>Cauſeleſs, and yet impoſſible to ſhun,</l>
+               <l>Her Fatal Malady its date begun;</l>
+               <l>'Twixt whom and Nature long there was a ſtrife;</l>
+               <l>At laſt the Combat ended with her Life.</l>
+               <l>Yet we could never hear what rais'd this feud,</l>
+               <l>Or caus'd this inſtance of Ingratitude:</l>
+               <l>Only with Nods, and Invendo's, fain</l>
+               <l>He wou'd wipe out the Spot, but all in vain;</l>
+               <l>For 'tis a Bloody-Crimſon, and in Grain.</l>
+            </lg>
+            <lg>
+               <l>And does our Modern Wits, with thoſe of Hell,</l>
+               <l>And with theſe Men above, run parallel?</l>
+               <l>Have they, like them, ungratefully abus'd</l>
+               <l>The Gifts, that Heaven ſo liberally infus'd?</l>
+               <l>Which, ſo profuſely, ſome of them enjoy,</l>
+               <l>That, one wou'd think, 'twere Heaven, without aloy;</l>
+               <l>And does their Actions then theſe Thoughts deſtroy.</l>
+               <l>Has <hi>Owles,</hi> and <hi>Dawes,</hi> and <hi>Ravens</hi> then Poſſeſt,</l>
+               <l>And with their Ordures fill'd the Halcions Neſt?</l>
+               <pb n="8" facs="tcp:42216:7"/>
+               <l>Is then the Noble Genius of our Iſle,</l>
+               <l>That Sung, and bleſt, and Brooded on our Nile?</l>
+               <l>Is ſhe in earneſt turn'd a <hi>Crocodile?</hi>
+               </l>
+               <l>Too true, alas! with Tears of Blood I Write:</l>
+               <l>Support, Oh Heaven, my Arm, that I may Smite:</l>
+               <l>(Having from thy own Quiver had the Dart)</l>
+               <l>This ſoul degenerate Monſter to the Heart:</l>
+               <l>A Monſter worſe than <hi>Ovid</hi> ever fain'd;</l>
+               <l>They but deſtroy'd the Body, this the Mind;</l>
+               <l>Therefore the Greater Devil of the Kind.</l>
+               <l>Beſides, his Monſters were but Fictions known,</l>
+               <l>And had Exiſtence in his Brain alone:</l>
+               <l>But ours has the Brains of all poſſeſt,</l>
+               <l>And made all Mad, or Fools, or Knave at leaſt.</l>
+               <l>But hold, my Fiery Muſe, obey the Rain,</l>
+               <l>Nor Dogmatiſe, but call in that again,</l>
+               <l>For, doubtleſs, many Worthies yet remain.</l>
+               <l>The <hi>Muſe</hi> ſubmits! and yet, alaſs, you'l find,</l>
+               <l>If you poſſeſs a grave, impartial Mind,</l>
+               <l>And clear from thence each Prejudice and Blind,)</l>
+               <pb n="9" facs="tcp:42216:7"/>
+               <l>On ſuch Encounters they have been abroad;</l>
+               <l>Their Virtue, not by Play-Houſe, Vices aw'd,</l>
+               <l>For that, long ſince, from thence, remov'd her Bleſt Aboad:</l>
+               <l>Where ſhou'd ſhe ſhew again her Heavenly Face,</l>
+               <l>Accompany'd with Piety and Grace?</l>
+               <l>They'd certainly be Hiſt, and Hooted from the place.</l>
+               <l>Here nought but Weeds of Wickedneſs will grow;</l>
+               <l>And, as they Wither, ſtill again they Sow:</l>
+               <l>Oh! What a Crop wou'd Hell have, might it Mow;</l>
+               <l>At a New Luſcious Comedy, I mean,</l>
+               <l>Where every <hi>Act,</hi> one may ſay, every <hi>Scene,</hi>
+               </l>
+               <l>Is Larded well with Fat, to Carry Off the Lean</l>
+               <l>For our Stage-Ven'ſon now will not go down,</l>
+               <l>Unleſs ſuch Sholes of Maggots it ſurround,</l>
+               <l>The very Hogo'd ſtrike a Modeſt Stranger down.</l>
+               <l>And this our Greateſt, Graveſt Wits applaud,</l>
+               <l>For elſe the Under-Fry wou'd ſoon be aw'd:</l>
+               <l>In ſhort, the <hi>Dramma's</hi> now, ev'n the Whole Nations Bawd:</l>
+               <pb n="10" facs="tcp:42216:8"/>
+               <l>And this ſo ſeeming violent a Charge,</l>
+               <l>If Heav'n allows, ſhall be explain'd at large,</l>
+               <l>And prov'd a Truth, moſt abſolute and clear,</l>
+               <l>Not only now, but for this Hundred year,</l>
+               <l>As Categorically ſhall appear.</l>
+            </lg>
+            <lg>
+               <l>And now, <hi>Plebeian Muſe,</hi> behold thy Task!</l>
+               <l>Try but thy utmoſt Strength, 'tis all I ask;</l>
+               <l>I'll ask no more, but ſtrait to Heav'n Appeal,</l>
+               <l>That does Great things from Mighty Men conceal,</l>
+               <l>And unto <hi>Babes</hi> and <hi>Sucklings</hi> oft Reveal.</l>
+               <l>We therefore now all Bounteous Heaven Implore,</l>
+               <l>To fraight our Veſſel from that Chriſtal Shore,</l>
+               <l>Or elſe we're Bankrupt, and can Trade no more.</l>
+               <l>But, if once Laden thence, and under Sail,</l>
+               <l>Altho' Attack'd, ſhe'll certainly prevail.</l>
+               <l>No cunning Pirate ſhall our Ruin boaſt;</l>
+               <l>But all our Danger lies upon the Coaſt,</l>
+               <l>Where, Heav'n, direct our Helm, or we are ever loſt.</l>
+               <pb n="11" facs="tcp:42216:8"/>
+               <l>Thou, who the Boat of <hi>Peter</hi> once didſt fill,</l>
+               <l>And, after, bad the ſurly Waves be ſtill;</l>
+               <l>(Who, ſtrait Obey'd, that All-commanding Word,)</l>
+               <l>Do thou Protection to our Bark afford;</l>
+               <l>And, in Return for ſuch a Mighty Boone,</l>
+               <l>We'll Sing thy Praiſes, Morning, Night and Noon.</l>
+            </lg>
+            <lg>
+               <l>And, till theſe Favours thou vouchſafe to Grant,</l>
+               <l>(So Great, and ſo Apparent is our Want,</l>
+               <l>So literally true our <hi>Muſe</hi> is Poor,)</l>
+               <l>That ſhe, till Heav'n ſhall Prompt, can Write no more:</l>
+               <l>Therefore we'll Anchor here, in hopes of better ſtore.</l>
+               <l>Which, when Heaven ſends us, and a Proſperous Gale,</l>
+               <l>(And he that Humbly Asks, can never Fail.)</l>
+               <l>We'll cut our Cables then, and Hoiſt up all our Sail.</l>
+               <l>Thus, in Career, we'll fly before the Wind,</l>
+               <l>And leave Hell's Doating Wou'd-be <hi>Wits</hi> behind.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
